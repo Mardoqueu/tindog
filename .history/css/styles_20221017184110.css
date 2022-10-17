@@ -18,6 +18,10 @@ h1 {
     font-weight: 900;
 }
 
+.img{
+    transform: rotate(45deg);    
+}
+
 /*Navigation Bar */
 
 .navbar{
@@ -40,13 +44,4 @@ h1 {
 }
 
 
-/*Downloads Buttons */
-
-.download-button{
-    margin: 5% 3% 5% 0;
-}
-
-
-.title-image{
-    transform: rotate(25deg);    
-}
+/*Downloads  */

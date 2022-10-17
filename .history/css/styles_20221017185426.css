@@ -18,6 +18,10 @@ h1 {
     font-weight: 900;
 }
 
+.title-image{
+    transform: rotate(45deg);    
+}
+
 /*Navigation Bar */
 
 .navbar{
@@ -47,6 +51,3 @@ h1 {
 }
 
 
-.title-image{
-    transform: rotate(25deg);    
-}
