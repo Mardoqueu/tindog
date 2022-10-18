@@ -58,11 +58,12 @@ h1 {
     width: 100%;
     text-align:center;
     display: grid;
+
 }
 
 h3{
     font-family: 'Montserrat-Black', sans-serif;
-    font-size: 1.5rem;   
+    font-size: 1rem;   
     font-weight: 900;
 }
 

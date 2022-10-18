@@ -58,21 +58,18 @@ h1 {
     width: 100%;
     text-align:center;
     display: grid;
+
 }
 
 h3{
     font-family: 'Montserrat-Black', sans-serif;
-    font-size: 1.5rem;   
+    font-size: 1rem;   
     font-weight: 900;
 }
 
 .icon-section{
     margin: 15% 3% 2% 0;
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     color: #ff4c68;
-}
-
-.icon-section:hover{
-    color: red;
 }
 
