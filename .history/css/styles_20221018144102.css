@@ -22,7 +22,12 @@ h2{
     font-family: 'Montserrat-Bold', sans-serif;
     font-size: 3rem;
     line-height: 1.5;
-    font-weight: 900;
+}
+
+
+h3{
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 1.5rem;
 }
 
 /*Navigation Bar */
@@ -87,7 +92,7 @@ h3{
 /*Testimonials*/
 
 #testimonials{
-
+    padding: 7% 15%;
     text-align: center;
     background-color: #ef8172;
     color: #fff;
@@ -99,19 +104,4 @@ h3{
     margin: 20px;
     font-weight: 900;
 
-}
-
-#press{
-    background-color: #ef8172;
-    text-align: center;
-    padding: 3%;
-}
-
-.press-logo{
-    width: 15%;
-    margin: 20px;
-}
-
-.carousel-item{
-    padding: 7% 15%;
 }

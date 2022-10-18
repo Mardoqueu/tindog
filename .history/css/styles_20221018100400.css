@@ -18,13 +18,6 @@ h1 {
     font-weight: 900;
 }
 
-h2{
-    font-family: 'Montserrat-Bold', sans-serif;
-    font-size: 3rem;
-    line-height: 1.5;
-    font-weight: 900;
-}
-
 /*Navigation Bar */
 
 .navbar{
@@ -65,7 +58,6 @@ h2{
     width: 100%;
     text-align:center;
     display: grid;
-    padding: 15% 15%;
 }
 
 h3{
@@ -75,43 +67,12 @@ h3{
 }
 
 .icon-section{
+    margin: 15% 3% 2% 10;
     font-size: 3.5rem;
-    color: #ef8172;
+    color: #ff4c68;
 }
 
 .icon-section:hover{
     color: red;
 }
 
-
-/*Testimonials*/
-
-#testimonials{
-
-    text-align: center;
-    background-color: #ef8172;
-    color: #fff;
-}
-
-.testimonial-image{
-    width: 10%;
-    border-radius: 100%;
-    margin: 20px;
-    font-weight: 900;
-
-}
-
-#press{
-    background-color: #ef8172;
-    text-align: center;
-    padding: 3%;
-}
-
-.press-logo{
-    width: 15%;
-    margin: 20px;
-}
-
-.carousel-item{
-    padding: 7% 15%;
-}
