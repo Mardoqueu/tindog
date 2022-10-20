@@ -55,19 +55,18 @@ h2{
 
 
 .title-image{
-    width: 60%;
+    width: %;
     transform: rotate(25deg);    
+    position: absolute;
 }
 
 /* Section #features */
 
 #features{
-    font-family: 'Montserrat-Bold', sans-serif;    
-    width: 100%;
-    text-align:center;
-    display: grid;
-    padding: 15% 15%;
+    padding: 7% 15%;
     background-color: #fff;
+    position: relative;
+    z-index: 1;
 }
 
 h3{
@@ -127,16 +126,4 @@ h3{
 
 .princing-column{
     padding: 3% 2%;
-}
-
-@media (max-width: 1028px){
-
-    #title{
-        text-align: center;
-    }
-
-    .title-image{
-        position: static;
-        transform: rotate(0);
-    }
 }

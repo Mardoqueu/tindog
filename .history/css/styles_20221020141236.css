@@ -129,14 +129,4 @@ h3{
     padding: 3% 2%;
 }
 
-@media (max-width: 1028px){
-
-    #title{
-        text-align: center;
-    }
-
-    .title-image{
-        position: static;
-        transform: rotate(0);
-    }
-}
+@media ()

@@ -55,7 +55,6 @@ h2{
 
 
 .title-image{
-    width: 60%;
     transform: rotate(25deg);    
 }
 
@@ -127,16 +126,4 @@ h3{
 
 .princing-column{
     padding: 3% 2%;
-}
-
-@media (max-width: 1028px){
-
-    #title{
-        text-align: center;
-    }
-
-    .title-image{
-        position: static;
-        transform: rotate(0);
-    }
 }
