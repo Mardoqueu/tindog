@@ -156,12 +156,12 @@ h3{
 }
 
 #footer{
-    background-color: #fff;
+    padding: 7% 15%;
     text-align: center;
-    padding: 3%;
 }
 
-.press-icons{
-    width: 0.2%;
+.social-network-icons{
+    width: 15%;
     margin: 20px;
+    justify-content: space-between;
 }

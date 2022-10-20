@@ -143,7 +143,7 @@ h3{
 #cta{
     padding: 7% 15%;
     text-align: center;
-    background-color: #ff4c68;
+    background-color: #ef8172;
     color: #fff; 
 }
 
@@ -152,16 +152,6 @@ h3{
     font-size: 3rem;  
     line-height: 1.5;  
     font-weight: 900;
-    text-align:center;
-}
+    align-items: ;
 
-#footer{
-    background-color: #fff;
-    text-align: center;
-    padding: 3%;
-}
-
-.press-icons{
-    width: 0.2%;
-    margin: 20px;
 }
