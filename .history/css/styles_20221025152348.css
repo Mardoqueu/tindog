@@ -95,12 +95,6 @@ h3{
     color: #fff;
 }
 
-.testimonial-text{
-    font-size: 3rem;
-    line-height: 1.5;
-}
-
-
 .testimonial-image{
     width: 10%;
     border-radius: 100%;
@@ -129,11 +123,6 @@ h3{
 #pricing{
     padding: 7% 15%;
     text-align: center;
-}
-
-.price-text{
-    font-size: 3rem;
-    line-height: 1.5rem;
 }
 
 .princing-column{

@@ -11,8 +11,9 @@ body{
 
 }
 
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3 {
     font-family: 'Montserrat-Black', sans-serif;
+
 }
 
 h1 {  
@@ -22,6 +23,7 @@ h1 {
 }
 
 h2{
+    font-family: 'Montserrat-Bold', sans-serif;
     font-size: 3rem;
     line-height: 1.5;
     font-weight: 900;
@@ -73,6 +75,7 @@ h2{
 }
 
 h3{
+    font-family: 'Montserrat-Black', sans-serif;
     font-size: 1.5rem;   
     font-weight: 900;
 }
@@ -94,12 +97,6 @@ h3{
     background-color: #ef8172;
     color: #fff;
 }
-
-.testimonial-text{
-    font-size: 3rem;
-    line-height: 1.5;
-}
-
 
 .testimonial-image{
     width: 10%;
@@ -129,11 +126,6 @@ h3{
 #pricing{
     padding: 7% 15%;
     text-align: center;
-}
-
-.price-text{
-    font-size: 3rem;
-    line-height: 1.5rem;
 }
 
 .princing-column{
